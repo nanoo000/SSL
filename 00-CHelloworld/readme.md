@@ -1,1 +1,1 @@
-
+usando mingw - 64
